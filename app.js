@@ -8,6 +8,7 @@ var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 const studentsRouter = require('./routes/students');
 const filesRouter = require('./routes/files');
+const productRoutes = require('./routes/product');
 
 var app = express();
 
